@@ -1,0 +1,8 @@
+{application, netstring,
+ [
+  {description, "Netstring Utilities"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, []},
+  {env, []}
+ ]}.
